@@ -135,3 +135,17 @@ flex: 1 20rem;
 .button.primary {
 background-color: #f0c040;
 }
+
+/* Filter */ 
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding: 1rem;
+  border-bottom: .1rem #c0c0c0 solid;
+}
+
+.filter div {
+  flex: 1;
+}
